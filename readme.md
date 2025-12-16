@@ -94,6 +94,7 @@ stripSkinTone('👌🏻') // => '👌'
 
 
 
+
 ## API
 
 This package exports the identifier `stripSkinTone`.
