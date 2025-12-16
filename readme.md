@@ -12,6 +12,7 @@
 Strip skin tone modifiers from emoji (🎅🏿 to 🎅).
 
 
+
 ## Contents
 
 *   [What is this?](#what-is-this)
