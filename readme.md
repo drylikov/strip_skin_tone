@@ -52,6 +52,7 @@ You can use this package to remove skin tones.
 You can alternatively use [`sindresorhus/skin-tone`][skin-tone] when you want
 to set skin tones.
 
+
 ## Install
 
 This package is [ESM only][esm].
