@@ -19,6 +19,7 @@ Strip skin tone modifiers from emoji (🎅🏿 to 🎅).
 
 
 
+
 *   [What is this?](#what-is-this)
 *   [When should I use this?](#when-should-i-use-this)
 *   [Install](#install)
