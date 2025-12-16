@@ -24,7 +24,6 @@ Strip skin tone modifiers from emoji (🎅🏿 to 🎅).
 *   [Security](#security)
 *   [Related](#related)
 *   [Contribute](#contribute)
-*   [License](#license)
 
 ## What is this?
 
