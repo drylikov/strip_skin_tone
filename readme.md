@@ -34,6 +34,7 @@ Strip skin tone modifiers from emoji (🎅🏿 to 🎅).
 
 
 
+
 This package removes [skin tone modifiers][diversity] (Fitzpatrick scale)
 from a string.
 
