@@ -4,7 +4,6 @@
 
 [![Build][build-badge]][build]
 [![Coverage][coverage-badge]][coverage]
-[![Downloads][downloads-badge]][downloads]
 
 Strip skin tone modifiers from emoji (🎅🏿 to 🎅).
 
