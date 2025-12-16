@@ -1,8 +1,5 @@
 
-
 # strip-skin-tone
-
-[![Build][build-badge]][build]
 
 Strip skin tone modifiers from emoji (🎅🏿 to 🎅).
 
