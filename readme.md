@@ -8,6 +8,7 @@
 
 
 
+
 Strip skin tone modifiers from emoji (🎅🏿 to 🎅).
 
 ## Contents
