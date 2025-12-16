@@ -25,6 +25,7 @@ Strip skin tone modifiers from emoji (🎅🏿 to 🎅).
 *   [Related](#related)
 *   [Contribute](#contribute)
 
+
 ## What is this?
 
 This package removes [skin tone modifiers][diversity] (Fitzpatrick scale)
