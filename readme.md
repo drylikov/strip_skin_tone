@@ -50,27 +50,27 @@ This package is [ESM only][esm].
 In Node.js (version 14.14+, 16.0+), install with [npm][]:
 
 ```sh
-npm install strip-skin-tone
+npm install strip_skin_tone
 ```
 
 In Deno with [`esm.sh`][esmsh]:
 
 ```js
-import {stripSkinTone} from 'https://esm.sh/strip-skin-tone@2'
+import {stripSkinTone} from 'https://esm.sh/strip_skin_tone@2'
 ```
 
 In browsers with [`esm.sh`][esmsh]:
 
 ```html
 <script type="module">
-  import {stripSkinTone} from 'https://esm.sh/strip-skin-tone@2?bundle'
+  import {stripSkinTone} from 'https://esm.sh/strip_skin_tone@2?bundle'
 </script>
 ```
 
 ## Use
 
 ```js
-import {stripSkinTone} from 'strip-skin-tone'
+import {stripSkinTone} from 'strip_skin_tone'
 
 stripSkinTone('🎅🏿') // => '🎅'
 stripSkinTone('👌🏻') // => '👌'
@@ -119,21 +119,21 @@ See [How to Contribute to Open Source][contribute].
 
 <!-- Definitions -->
 
-[build-badge]: https://github.com/drylikov/strip-skin-tone/workflows/main/badge.svg
+[build-badge]: https://github.com/drylikov/strip_skin_tone/workflows/main/badge.svg
 
-[build]: https://github.com/drylikov/strip-skin-tone/actions
+[build]: https://github.com/drylikov/strip_skin_tone/actions
 
-[coverage-badge]: https://img.shields.io/codecov/c/github/drylikov/strip-skin-tone.svg
+[coverage-badge]: https://img.shields.io/codecov/c/github/drylikov/strip_skin_tone.svg
 
-[coverage]: https://codecov.io/github/drylikov/strip-skin-tone
+[coverage]: https://codecov.io/github/drylikov/strip_skin_tone
 
-[downloads-badge]: https://img.shields.io/npm/dm/strip-skin-tone.svg
+[downloads-badge]: https://img.shields.io/npm/dm/strip_skin_tone.svg
 
-[downloads]: https://www.npmjs.com/package/strip-skin-tone
+[downloads]: https://www.npmjs.com/package/strip_skin_tone
 
-[size-badge]: https://img.shields.io/bundlephobia/minzip/strip-skin-tone.svg
+[size-badge]: https://img.shields.io/bundlephobia/minzip/strip_skin_tone.svg
 
-[size]: https://bundlephobia.com/result?p=strip-skin-tone
+[size]: https://bundlephobia.com/result?p=strip_skin_tone
 
 [npm]: https://docs.npmjs.com/cli/install
 
